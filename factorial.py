@@ -5,5 +5,3 @@ def f(x):
         a=a+1
         m=m*a
         print(m)
-
-f(4)
